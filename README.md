@@ -1,5 +1,5 @@
 # Hi, I'm Luiz 👋
-### Data Engineer in progress · Analytics — Credit & Risk @ Porto Bank
+### Data Engineer · Analytics — Credit & Risk @ Porto Bank
 
 I'm a Data Analyst at Porto Bank transitioning into **Data Engineering**, building end-to-end pipelines and deepening my skills in **dbt, PySpark, Snowflake and Airflow**. On the Credit Engine team (Parâmetros), I already work close to the data stack — building the dashboards, process optimizations and post-policy analyses that data engineering feeds into — and I'm now focused on owning the pipelines that make that possible.
 
