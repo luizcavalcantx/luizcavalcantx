@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizcavalcantx&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 # Hi, I'm Luiz 👋
 ### Data Engineer · Analytics — Credit & Risk @ Porto Bank
 
