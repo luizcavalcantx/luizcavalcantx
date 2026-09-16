@@ -55,7 +55,3 @@ Benchmark project comparing the three most-used data manipulation tools by runni
 - 🎯 Continuously deepening dbt, PySpark and cloud data platforms through dbt Learn, Mode Analytics and Google Cloud Skills Boost.
 - 🥋 Blue belt in Brazilian Jiu-Jitsu, and a half-marathon runner outside of work.
 - 📍 Based in São Paulo, Brazil.
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizcavalcantx&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
